@@ -1,0 +1,13 @@
+.body {
+    padding: 0 !important;
+}
+
+.button {
+    margin-right: 4px;
+    margin-bottom: 4px;
+}
+
+.content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
