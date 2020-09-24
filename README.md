@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app shows information about github users. Also, this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
+
+## Getting Started
+You can run the project by using the following command:
+
+### `docker-compose up`
+
+For this you will need to install docker and docker-compose in your machine.
+
+Note: this command will install a node image and will run `npm install` automatically, after that you will just have to run `npm start`
 
 ## Available Scripts
 
