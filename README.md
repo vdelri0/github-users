@@ -1,7 +1,7 @@
 This app shows information about github users. Also, this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
 ## Getting Started
-You can run the project by using the following command:
+You can start the project by using the following command:
 
 ### `docker-compose up`
 
